@@ -121,7 +121,7 @@ export default function Home() {
               </p>
             </div>
             <div className="forge-card reveal reveal-delay-2">
-              <div className="forge-card-icon">&cir;</div>
+              <div className="forge-card-icon">&#9678;</div>
               <h3 className="forge-card-title">
                 Intelligent Automation Systems
               </h3>
@@ -141,7 +141,7 @@ export default function Home() {
               </p>
             </div>
             <div className="forge-card reveal reveal-delay-4">
-              <div className="forge-card-icon">&square;</div>
+              <div className="forge-card-icon">&#9632;</div>
               <h3 className="forge-card-title">AI Infrastructure</h3>
               <p className="forge-card-text">
                 The foundational layer that makes everything possible.
