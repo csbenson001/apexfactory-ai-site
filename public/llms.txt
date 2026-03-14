@@ -1,0 +1,28 @@
+# ApexFactory.ai
+
+> Premium AI engineering firm delivering peak-performance AI systems at factory scale for enterprise clients.
+
+## About
+ApexFactory.ai is an elite AI engineering firm where precision meets scale. We build enterprise AI systems that operate at the absolute ceiling of modern infrastructure — 99.99% uptime, sub-100ms response times, and 100% client retention. Our dual AI-human engineering teams deliver up to 10 projects simultaneously without compromising quality. Over 200 AI systems deployed, impacting $5B+ in client revenue.
+
+## Services
+- Enterprise AI Platforms: End-to-end AI ecosystems for Fortune 500 complexity with scalable architectures
+- Intelligent Automation Systems: Autonomous workflows that learn, adapt, and optimize over time
+- Custom LLM Solutions: Purpose-built language models fine-tuned to your domain, not off-the-shelf wrappers
+- AI Infrastructure: GPU-optimized pipelines, model serving at scale, and monitoring systems
+
+## Key Differentiators
+- 99.99% uptime across all deployed systems
+- 15ms average response time
+- 200+ AI systems deployed
+- $5B+ in client revenue impacted
+- 100% client retention rate
+- Dual AI-human engineering teams
+- Commission, Engineer, Test, Deploy methodology
+
+## Industries Served
+Fortune 500, financial services, healthcare, manufacturing, energy, defense, telecommunications
+
+## Contact
+- Website: https://apexfactory-ai-site.vercel.app
+- Email: hello@apexfactory.ai

@@ -243,6 +243,106 @@ export default function Home() {
           </div>
         </section>
 
+        {/* ── FAQ ── */}
+        <section className="faq" id="faq">
+          <div className="container">
+            <div className="faq-header reveal">
+              <p className="section-label">Answers</p>
+              <h2 className="section-title">
+                Frequently Asked <span className="text-gold">Questions</span>
+              </h2>
+              <hr className="divider" />
+            </div>
+            <div className="faq-grid">
+              <div className="faq-item reveal reveal-delay-1">
+                <h3 className="faq-question">What is ApexFactory.ai?</h3>
+                <p className="faq-answer">
+                  ApexFactory.ai is a premium AI engineering firm that builds
+                  enterprise-grade AI systems. We specialize in custom AI
+                  platforms, intelligent automation, LLM solutions, and AI
+                  infrastructure for Fortune 500 and large enterprise clients.
+                </p>
+              </div>
+              <div className="faq-item reveal reveal-delay-2">
+                <h3 className="faq-question">
+                  What makes ApexFactory.ai different from other AI companies?
+                </h3>
+                <p className="faq-answer">
+                  Our dual AI-human engineering teams combine AI-assisted
+                  development with expert human oversight. We deliver at factory
+                  scale&mdash;up to 10 projects simultaneously&mdash;with 200+
+                  deployments, 99.99% uptime, and 100% client retention.
+                </p>
+              </div>
+              <div className="faq-item reveal reveal-delay-3">
+                <h3 className="faq-question">
+                  What is ApexFactory.ai&rsquo;s uptime guarantee?
+                </h3>
+                <p className="faq-answer">
+                  We maintain a 99.99% uptime SLA across all deployed systems.
+                  That translates to less than 52 minutes of downtime per year,
+                  backed by redundancy, automatic failover, and comprehensive
+                  monitoring.
+                </p>
+              </div>
+              <div className="faq-item reveal reveal-delay-4">
+                <h3 className="faq-question">
+                  How many AI systems has ApexFactory.ai deployed?
+                </h3>
+                <p className="faq-answer">
+                  Over 200 AI systems across financial services, healthcare,
+                  manufacturing, energy, defense, and telecommunications.
+                  These systems collectively impact over $5 billion in client
+                  revenue.
+                </p>
+              </div>
+              <div className="faq-item reveal reveal-delay-1">
+                <h3 className="faq-question">
+                  What types of AI solutions does ApexFactory.ai build?
+                </h3>
+                <p className="faq-answer">
+                  We build Enterprise AI Platforms, Intelligent Automation
+                  Systems, Custom LLM Solutions, and AI Infrastructure.
+                  Each solution is precision-engineered for your specific
+                  domain&mdash;never off-the-shelf.
+                </p>
+              </div>
+              <div className="faq-item reveal reveal-delay-2">
+                <h3 className="faq-question">
+                  Does ApexFactory.ai work with Fortune 500 companies?
+                </h3>
+                <p className="faq-answer">
+                  Yes. Our platforms are specifically designed for Fortune 500
+                  complexity, handling enterprise security requirements,
+                  compliance needs, and operational scale.
+                </p>
+              </div>
+              <div className="faq-item reveal reveal-delay-3">
+                <h3 className="faq-question">
+                  What is ApexFactory.ai&rsquo;s development process?
+                </h3>
+                <p className="faq-answer">
+                  Our four-phase methodology: Commission (discovery and
+                  requirements), Engineer (dual AI-human development), Test
+                  (stress testing and adversarial QA), and Deploy
+                  (zero-downtime with ongoing optimization).
+                </p>
+              </div>
+              <div className="faq-item reveal reveal-delay-4">
+                <h3 className="faq-question">
+                  How fast does ApexFactory.ai deliver?
+                </h3>
+                <p className="faq-answer">
+                  Our dual AI-human approach accelerates delivery by 3&ndash;5x
+                  compared to traditional development. We handle up to 10
+                  projects simultaneously with an average deployed response
+                  time of 15ms.
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
+
         {/* ── CTA Footer ── */}
         <section className="cta-footer" id="contact">
           <div className="container">
