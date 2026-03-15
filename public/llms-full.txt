@@ -152,5 +152,5 @@ Our factory-scale operations allow us to deliver up to 10 projects simultaneousl
 ---
 
 ## Contact
-- Website: https://apexfactory-ai-site.vercel.app
+- Website: https://apexfactoryai.com
 - Email: hello@apexfactory.ai

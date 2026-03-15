@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     title: 'ApexFactory.ai — Peak Performance. Factory Scale.',
     description: 'Premium enterprise AI engineering. 200+ systems deployed, 99.99% uptime, $5B+ client revenue impacted.',
     type: 'website',
-    url: 'https://apexfactory-ai-site.vercel.app',
+    url: 'https://apexfactoryai.com',
     siteName: 'ApexFactory.ai',
   },
   twitter: {
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
     description: 'Premium enterprise AI engineering. 200+ systems deployed, 99.99% uptime.',
   },
   alternates: {
-    canonical: 'https://apexfactory-ai-site.vercel.app',
+    canonical: 'https://apexfactoryai.com',
   },
   robots: {
     index: true,
@@ -47,9 +47,9 @@ const jsonLd = {
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://apexfactory-ai-site.vercel.app/#organization",
+      "@id": "https://apexfactoryai.com/#organization",
       "name": "ApexFactory.ai",
-      "url": "https://apexfactory-ai-site.vercel.app",
+      "url": "https://apexfactoryai.com",
       "description": "Premium AI engineering firm delivering peak-performance AI systems at factory scale for enterprise clients. 200+ deployments, 99.99% uptime, $5B+ revenue impacted.",
       "email": "hello@apexfactory.ai",
       "knowsAbout": [
@@ -67,11 +67,11 @@ const jsonLd = {
     },
     {
       "@type": "WebSite",
-      "@id": "https://apexfactory-ai-site.vercel.app/#website",
-      "url": "https://apexfactory-ai-site.vercel.app",
+      "@id": "https://apexfactoryai.com/#website",
+      "url": "https://apexfactoryai.com",
       "name": "ApexFactory.ai",
       "publisher": {
-        "@id": "https://apexfactory-ai-site.vercel.app/#organization"
+        "@id": "https://apexfactoryai.com/#organization"
       }
     },
     {
@@ -79,7 +79,7 @@ const jsonLd = {
       "name": "Enterprise AI Platforms",
       "description": "End-to-end AI ecosystems designed for Fortune 500 complexity. Scalable architectures that grow with your ambition and withstand any load.",
       "provider": {
-        "@id": "https://apexfactory-ai-site.vercel.app/#organization"
+        "@id": "https://apexfactoryai.com/#organization"
       }
     },
     {
@@ -87,7 +87,7 @@ const jsonLd = {
       "name": "Intelligent Automation Systems",
       "description": "Autonomous workflows that learn, adapt, and optimize over time. Transform manual processes into intelligent, self-improving systems.",
       "provider": {
-        "@id": "https://apexfactory-ai-site.vercel.app/#organization"
+        "@id": "https://apexfactoryai.com/#organization"
       }
     },
     {
@@ -95,7 +95,7 @@ const jsonLd = {
       "name": "Custom LLM Solutions",
       "description": "Purpose-built language models fine-tuned to your domain. Deeply integrated, proprietary AI — not off-the-shelf wrappers.",
       "provider": {
-        "@id": "https://apexfactory-ai-site.vercel.app/#organization"
+        "@id": "https://apexfactoryai.com/#organization"
       }
     },
     {
@@ -103,7 +103,7 @@ const jsonLd = {
       "name": "AI Infrastructure",
       "description": "GPU-optimized pipelines, model serving at scale, and monitoring systems. The foundational layer that makes enterprise AI possible.",
       "provider": {
-        "@id": "https://apexfactory-ai-site.vercel.app/#organization"
+        "@id": "https://apexfactoryai.com/#organization"
       }
     },
     {

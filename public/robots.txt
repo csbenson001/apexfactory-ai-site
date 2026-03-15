@@ -25,4 +25,4 @@ Allow: /
 User-agent: cohere-ai
 Allow: /
 
-Sitemap: https://apexfactory-ai-site.vercel.app/sitemap.xml
+Sitemap: https://apexfactoryai.com/sitemap.xml
