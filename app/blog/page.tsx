@@ -43,6 +43,22 @@ const articles = [
     date: 'February 2026',
     tag: 'Strategy',
   },
+  {
+    slug: 'enterprise-ai-compliance-hipaa-soc2-gdpr',
+    title: 'Enterprise AI Compliance: HIPAA, SOC 2, and GDPR for AI Systems',
+    summary:
+      'A comprehensive guide to regulatory compliance for enterprise AI systems, covering HIPAA, SOC 2, and GDPR requirements.',
+    date: 'March 2026',
+    tag: 'Enterprise',
+  },
+  {
+    slug: 'ai-infrastructure-at-scale-guide',
+    title: 'AI Infrastructure at Scale: GPU Pipelines, Model Serving, and Monitoring',
+    summary:
+      'A technical deep dive into infrastructure decisions that determine whether AI systems perform at enterprise scale.',
+    date: 'March 2026',
+    tag: 'Technology',
+  },
 ];
 
 export default function BlogPage() {

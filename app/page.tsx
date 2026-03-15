@@ -371,6 +371,13 @@ export default function Home() {
           <div className="footer-logo">
             Apex<span>Factory</span>.ai
           </div>
+          <ul className="footer-blog-links">
+            <li><a href="/#standard">Standard</a></li>
+            <li><a href="/#services">Services</a></li>
+            <li><a href="/#process">Process</a></li>
+            <li><a href="/blog">Blog</a></li>
+            <li><a href="mailto:hello@apexfactory.ai">Contact</a></li>
+          </ul>
           <div className="footer-text">
             &copy; {new Date().getFullYear()} ApexFactory.ai. All rights
             reserved.
